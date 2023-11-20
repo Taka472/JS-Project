@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "JS_Project",
-    "slug": "JS_Project",
+    "name": "Weather-app",
+    "slug": "Weather-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
